@@ -1,2 +1,2 @@
 # NodeKubernetes
-A simple Node Express application built with Docker.
+A simple Node Express application built with Docker
